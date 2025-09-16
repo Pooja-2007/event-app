@@ -1,6 +1,7 @@
 [Download or watch video]("C:\Users\Hp\Videos\Screen Recordings\Screen Recording 2025-09-16 171857.mp4")
-Event-App
-Description
+
+
+Event-App Description
 
 Event-App is a web application that allows users to create, manage, and explore events easily. It is designed to simplify event planning and provide a seamless experience for both organizers and participants.
 
